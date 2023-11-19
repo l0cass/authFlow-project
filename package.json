@@ -1,0 +1,18 @@
+{
+  "name": "authflow-project",
+  "version": "1.0.0",
+  "description": "AuthFlow simplifica autenticação em aplicações web dinâmicas. Desenvolvido em JavaScript, facilita login e registro, garantindo segurança ao armazenar dados no banco. Sua implementação robusta e escalável integra autenticação do cliente a um eficiente back-end.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
